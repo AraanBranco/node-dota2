@@ -2,17 +2,17 @@
   "name": "dota2",
   "version": "6.1.0",
   "dependencies": {
-    "deferred": "^0.7.9",
+    "deferred": "^0.7.11",
     "long": "^4.0.0",
-    "merge": "^1.2.0",
-    "moment": "^2.22.1",
-    "protobufjs": "^6.8.6",
-    "steam": "^1.4.0",
-    "winston": "^2.4.2"
+    "merge": "^1.2.1",
+    "moment": "^2.29.1",
+    "protobufjs": "^6.11.2",
+    "steam": "^1.4.1",
+    "winston": "^2.4.5"
   },
   "devDependencies": {
-    "mocha": "^5.1.1",
-    "should": "^13.2.1"
+    "mocha": "^5.2.0",
+    "should": "^13.2.3"
   },
   "scripts": {
     "update": "bash update_proto.sh",
